@@ -1,0 +1,1 @@
+# Typescript-Union-Type
